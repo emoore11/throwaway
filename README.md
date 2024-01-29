@@ -8,3 +8,4 @@ I love making changes to my code.
 * Once you've committed your changes, do git status to make sure your changes have been committed.
 *After you have done this, you will go to git hub for your next steps.
 * I'm making more changes to my code here.
+* Remember that you always have to save here before going back to terminal (at least until you figure out how).
