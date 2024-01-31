@@ -12,4 +12,6 @@ I love making changes to my code.
 
 This is another sentence about code, and the importance of commit messages.
 
-Oops, I might have made a mistake by trying to do git -a before I was ready *eye roll* I guess we'll see. 
+Oops, I might have made a mistake by trying to do git -a before I was ready *eye roll* I guess we'll see.
+
+Well I'm still alive, so I guess it didn't mess up too much. :D
